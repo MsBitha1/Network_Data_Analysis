@@ -24,7 +24,7 @@ Using Python, Jupyter Notebook, and Pandas, the project processes and explores r
 
 2) Ensure Python is installed.
 
-3) Install the necessary libarries for this case pandas.
+3) Install the necessary libraries for this case pandas.
 
 4) Open the Jupyter Notebook.
 
